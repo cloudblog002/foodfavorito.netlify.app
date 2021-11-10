@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 disableLanguages = ['id']
-disableKinds=taxonomy,taxonomyTerm,RSS
+hugo --disableKinds=taxonomy,taxonomyTerm,RSS
 
 summaryLength = 70
 buildFuture = false
