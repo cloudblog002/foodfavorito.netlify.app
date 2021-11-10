@@ -6,6 +6,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 disableLanguages = ['id']
+disableKinds=taxonomy,taxonomyTerm,RSS
 
 summaryLength = 70
 buildFuture = false
@@ -18,6 +19,7 @@ rssLimit = 20
 
 enableGitInfo = false
 googleAnalytics = ""
+
 
 [markup]
   [markup.goldmark]
@@ -38,7 +40,8 @@ googleAnalytics = ""
 [outputs]
   home = ["HTML", "RSS", "SearchIndex"]
   section = ["HTML", "RSS", "SearchIndex"]
-
+  taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
+  taxonomy = ["HTML", "RSS", "SearchIndex"]
 
 [outputFormats]
   [outputFormats.SearchIndex]
