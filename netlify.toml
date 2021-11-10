@@ -6,17 +6,3 @@ command = "hugo"
 HUGO_VERSION = "0.88.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-
-
-[[plugins]]
-  package = "netlify-plugin-submit-sitemap"
-
-[plugins.inputs]
-
-	baseUrl = "https://foodfavorito.netlify.app"
-	sitemapPath = "/sitemap.xml"
-	providers = [
-		"google",
-		"bing",
-		"yandex"
-	]
