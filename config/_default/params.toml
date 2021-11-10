@@ -1,6 +1,6 @@
-logoText = "Recipefav"
+logoText = "FoodFavorito"
 logoType = "short" # long, short
-description = "Koleksi lengkap resep favorit masakan favorit di Indonesia."
+description = "The Complete collection of recipes from around the World."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/

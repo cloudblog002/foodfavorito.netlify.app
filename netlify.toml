@@ -13,7 +13,7 @@ HUGO_ENABLEGITINFO = "true"
 
 [plugins.inputs]
 
-	baseUrl = "https://recipefav.netlify.app"
+	baseUrl = "https://foodfavorito.netlify.app"
 	sitemapPath = "/sitemap.xml"
 	providers = [
 		"google",

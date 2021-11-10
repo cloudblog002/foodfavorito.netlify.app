@@ -1,11 +1,11 @@
-baseURL = "https://recipefav.netlify.app"
-title = "Recipefav"
+baseURL = "https://foodfavorito.netlify.app"
+title = "Food Favorito"
 theme = "zzo"
 
-defaultContentLanguage = "id"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
-disableLanguages = ['en']
+disableLanguages = ['id']
 
 summaryLength = 70
 buildFuture = false
@@ -14,7 +14,7 @@ copyright = "&copy;{year} All Rights Reserved"
 timeout = 10000
 enableEmoji = true
 paginate = 10
-rssLimit = 100
+rssLimit = 20
 
 enableGitInfo = false
 googleAnalytics = ""

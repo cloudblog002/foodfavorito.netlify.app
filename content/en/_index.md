@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Food Favorito
     subtitle:
-      - The world’s fastest framework for building websites
+      - The Complete collection of recipes from around the World
     titleColor: 
     titleShadow: true
     titleFontSize: 44
