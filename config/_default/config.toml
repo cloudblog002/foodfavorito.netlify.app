@@ -1,5 +1,5 @@
 baseURL = "https://recipefav.netlify.app"
-title = "Koleksi lengkap resep masakan favorit di Indonesia"
+title = "Recipefav"
 theme = "zzo"
 
 defaultContentLanguage = "id"
