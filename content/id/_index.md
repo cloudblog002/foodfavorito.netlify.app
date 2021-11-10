@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - RESEP CINTA
+      - Recipefav
     subtitle:
-      - Koleksi lengkap resep masakan dari seluruh Indonesia
+      - Koleksi lengkap resep favorit masakan dari seluruh Indonesia
     titleColor: 
     titleShadow: true
     titleFontSize: 44
